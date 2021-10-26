@@ -7,6 +7,11 @@ nav ul li.menu a{
     color: black  !important;
 }
 
+#map {
+	height: 400px;
+	width: 100%;
+  }  
+
 header{
     margin-bottom: 50px;
 }
