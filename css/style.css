@@ -1,0 +1,83 @@
+nav ul li.menu a{
+    color: white !important;
+
+}
+
+.menu a:hover{
+    color: black  !important;
+}
+
+header{
+    margin-bottom: 50px;
+}
+
+.logo-footer{
+	width: 35px;
+}
+
+.h1{
+    text-align: center;
+}
+
+.logo{
+    width: 50px;
+}
+
+.redes-title{
+	color: black !important;
+}
+
+.redes-sociais{
+    width: 25px;
+	margin-right: 10px;
+}
+
+.titulo-servico{
+	color: #252c41
+	margin-bottom: 40px;
+	margin-top: 40px:;
+}
+
+.tamanho-icone{
+	font-size: 68px;
+	color: #1e1f1e;
+}
+
+.servicos{
+	background-color: #E6E6FA;
+	margin-bottom: 0rem;
+	border-radius: 0rem; 
+}
+
+.titulo-depoimento{
+	color: #FFFFFF;
+	margin-bottom: 40px;
+	margin-top: 40px:;
+}
+
+.desc-depoimento{
+	margin-bottom: 40px;
+	color: #FFFFFF;
+}
+
+.depoimento{
+	background-color: #c7c7c7;
+	margin-bottom: 0rem;
+	border-radius: 0rem; 
+}
+
+.footer {
+	background-color: black;
+	color: #ffffff;
+}
+
+.col-100 {
+	width: 100%;
+	float: left;
+	position: relative;
+}
+.col-4 {
+	float: left;
+	width: 25%;
+	text-align: center;
+}
